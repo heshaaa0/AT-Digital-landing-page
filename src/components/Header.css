@@ -1,0 +1,22 @@
+.header {
+    background: rgba(107, 60, 201, 1);
+    width: 1440px;
+    height: 50px;
+    padding: 26px 80px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0;
+  }
+  
+  .nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 28px;
+    color: white;
+  }
+  
+  .nav ul li {
+    margin-left: 750px;
+    margin-top: -30px;
+  }
+  
